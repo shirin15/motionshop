@@ -1,10 +1,12 @@
 
 import './App.css';
+import Motion from "./pages/Motion";
 
 function App() {
   return (
     <div className="App">
-     <h1>hello</h1>
+     <h1>erlan</h1>
+        <Motion/>
      </div>
   );
 }
